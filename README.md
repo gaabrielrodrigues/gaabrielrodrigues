@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Rodrigues</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="center">🚀 Always building, learning, and improving. 💡 Focused on scalable solutions and clean, elegant UI/UX.</p>
+<p align="center">🚀 Always building, learning, and improving. 💡 Exploring different areas of software development to find my main path.</p>
 
 ---
 
